@@ -33,15 +33,9 @@ projects:
     version: "1.0-beta1"
   rules:
     version: "2.9"
-  seckit: "1.9"
+  seckit:
+    version: "1.9"
   token:
     version: "1.6"
   views:
     version: "3.13"
-libraries:
-  user-interface:
-    download:
-      type: file
-      url: https://raw.githubusercontent.com/drupal/drupal/8.1.2/core/modules/user/src/UserInterface.php
-      destination: ./src/Drupal/core/modules/user
-      directory_name: src
