@@ -1,0 +1,23 @@
+name = CurtisBlumer.com Base Module
+description = The base module is required for all other custom modules installed on CurtisBlumer.com.
+version = 7.x-1.x-dev
+
+core = 7.x
+package = Site base
+php = 5.4
+required = TRUE
+
+dependencies[] = calendar:calendar
+dependencies[] = composer_manager:composer_manager
+dependencies[] = date:date
+dependencies[] = date:date_api
+dependencies[] = date_ical:date_ical
+dependencies[] = drupal:block
+dependencies[] = drupal:node
+dependencies[] = drupal:path
+dependencies[] = drupal:taxonomy
+dependencies[] = password_policy:password_policy
+dependencies[] = password_strength:password_strength
+dependencies[] = token:token
+dependencies[] = navbar:navbar
+dependencies[] = views:views
