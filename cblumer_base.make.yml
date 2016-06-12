@@ -1,0 +1,36 @@
+#%YAML 1.2
+# Drush make file for http://curtisblumer.com
+core: 7.x
+api: 2
+defaults:
+  projects:
+    subdir: "contrib"
+projects:
+  # Bootstrap base theme
+  bootstrap:
+    version: "3.5"
+  # Contrib modules
+  calendar:
+    version: "3.5"
+  composer_manager:
+    version: "1.8"
+  ctools:
+    version: "1.9"
+  date:
+    version: "2.9"
+  date_ical:
+    version: "3.9"
+  entity:
+    version: "1.7"
+  navbar:
+    version: "1.7"
+  password_policy:
+    version: "1.12"
+  password_strength:
+    version: "1.0-beta1"
+  rules:
+    version: "2.9"
+  token:
+    version: "1.6"
+  views:
+    version: "3.13"
