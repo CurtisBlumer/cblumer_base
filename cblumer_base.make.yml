@@ -4,9 +4,9 @@
 core: 7.x
 api: 2
 
-#defaults:
-#  projects:
-#    subdir: "contrib"
+defaults:
+  projects:
+    subdir: contrib
 
 projects:
   # Bootstrap base theme
@@ -38,7 +38,7 @@ projects:
   views:
     version: "3.13"
 libraries:
-  UserInterface:
+  user-interface:
     download:
       type: file
       url: https://raw.githubusercontent.com/drupal/drupal/8.1.2/core/modules/user/src/UserInterface.php

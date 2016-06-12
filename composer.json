@@ -1,13 +1,11 @@
 {
-    "name": "curtisblumer/cb-drupal-base",
-    "description": "The base Drupal module for http://CurtisBlumer.com",
-    "type": "drupal-package",
+    "name": "curtisblumer/personal-drupal-base",
+    "type": "drupal-module",
     "authors": [
         {
             "name": "Curtis Blumer",
             "email": "curtis.blumer@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
