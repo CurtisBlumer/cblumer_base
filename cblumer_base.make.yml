@@ -23,8 +23,14 @@ projects:
     version: "2.9"
   date_ical:
     version: "3.9"
+  diff:
+    version: ~
   entity:
     version: "1.7"
+  file_integrity:
+    version: ~
+  markdown:
+    version: ~
   navbar:
     version: "1.7"
   password_policy:
