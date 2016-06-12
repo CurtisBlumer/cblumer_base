@@ -33,6 +33,7 @@ projects:
     version: "1.0-beta1"
   rules:
     version: "2.9"
+  seckit: "1.9"
   token:
     version: "1.6"
   views:
