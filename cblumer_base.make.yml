@@ -1,10 +1,13 @@
 #%YAML 1.2
-# Drush make file for http://curtisblumer.com
+# Drush make file for http://CurtisBlumer.com
+
 core: 7.x
 api: 2
+
 defaults:
   projects:
     subdir: "contrib"
+
 projects:
   # Bootstrap base theme
   bootstrap:
