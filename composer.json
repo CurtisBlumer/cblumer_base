@@ -1,6 +1,6 @@
 {
     "name": "curtisblumer/cb-drupal-base",
-    "description": "The base Drupal module for CurtisBlumer.com",
+    "description": "The base Drupal module for http://CurtisBlumer.com",
     "type": "drupal-package",
     "authors": [
         {
