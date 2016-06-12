@@ -1,5 +1,5 @@
 name = CurtisBlumer.com Base Module
-description = The base module is required for all other custom modules installed on CurtisBlumer.com.
+description = The base module is required for all other custom modules installed on http://CurtisBlumer.com.
 version = 7.x-1.x-dev
 
 core = 7.x
