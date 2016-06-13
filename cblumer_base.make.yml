@@ -18,7 +18,7 @@ projects:
   composer_manager:
     version: "1.8"
   ctools:
-    version: "1.x-dev"
+    version: "1.9"
     subdir: "patched"
     patch:
       - "https://www.drupal.org/files/issues/deprecating_php4_style-2528736-23.patch"
