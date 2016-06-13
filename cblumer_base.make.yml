@@ -13,6 +13,10 @@ projects:
   bootstrap:
     version: "3.5"
   # Contrib modules
+  advanced_help:
+    version: "1.3"
+  advanced_help_hint:
+    version: "1.2"
   calendar:
     version: "3.5"
   composer_manager:
@@ -27,13 +31,15 @@ projects:
   date_ical:
     version: "3.9"
   diff:
-    version: ~
+    version: "3.2"
   entity:
     version: "1.7"
   file_integrity:
-    version: ~
+    version: "1.x-dev"
+  libraries:
+    version: "2.3"
   markdown:
-    version: ~
+    version: "1.2"
   navbar:
     version: "1.7"
   password_policy:
@@ -46,5 +52,9 @@ projects:
     version: "1.9"
   token:
     version: "1.6"
+  variable:
+    version: "2.5"
+  variable_extra:
+    version: "1.x-dev"
   views:
     version: "3.13"
