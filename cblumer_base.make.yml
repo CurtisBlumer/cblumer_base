@@ -21,8 +21,8 @@ projects:
     version: "1.9"
     subdir: "patched"
     patch:
-      - https://www.drupal.org/files/issues/deprecating_php4_style-2528736-23.patch
-      - https://www.drupal.org/files/issues/followup-Deprecating-PHP4-Style-Constructors-2528736-19_0.patch
+      - "https://www.drupal.org/files/issues/deprecating_php4_style-2528736-23.patch"
+      - "https://www.drupal.org/files/issues/followup-Deprecating-PHP4-Style-Constructors-2528736-19_0.patch"
   date:
     version: "2.9"
   date_ical:
